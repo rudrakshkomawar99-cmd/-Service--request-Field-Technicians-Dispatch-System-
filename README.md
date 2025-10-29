@@ -52,7 +52,7 @@ int main() {
         else printf("Emergency Services\n");
 
         printf("Total Technicians: %d\n", num_tech);
-        printf("Total Cost: ₹%.2f\n", total_cost);
+        printf("Total Cost: ₹%f\n", total_cost);
     }
 
     //  for Commercial 
